@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/frangb9815/decide.svg?branch=master)](https://travis-ci.org/frangb9815/decide)
+
+
 Plataforma voto electrónico educativa
 =====================================
 
